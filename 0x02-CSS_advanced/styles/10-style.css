@@ -50,7 +50,7 @@ a {
     color: var(--color-primary);
 }
 .section-header-align{
-    align-items: center;
+    text-align: center;
 }
 .section-tagline{
     color: var(--color-primary);
