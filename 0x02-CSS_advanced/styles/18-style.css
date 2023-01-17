@@ -450,8 +450,8 @@ h6 {
   float: right;
 }
 .nav{
-  margin: 0 0 0 0;
-  padding:0 0 0 0;
+  margin: 0;
+  padding:0;
   list-style-type: none;
   text-align: center;
 }
@@ -465,7 +465,7 @@ h6 {
 }
 .nav.nav-link{
   display: block;
-  padding: 0.5rem, 0.5rem, 1rem, 1rem;
+  padding: 0.5rem 1rem;
 }
 .nav.nav-link:hover{
   color: var(--nav-item-link-hover);
