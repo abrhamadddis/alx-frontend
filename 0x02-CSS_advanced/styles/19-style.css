@@ -563,9 +563,9 @@ ul.row {
 }
 
 .col-1-3 {
-  width: 50%;
-  float: left;
-  padding: 0.5rem;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
 
 .col-1-2 {
