@@ -467,6 +467,10 @@ a:active {
   padding: var(--section-padding);
 }
 
+.section {
+  padding: var(--section-padding);
+}
+
 .section-header {
   text-align: var(--section-header-align);
   padding: var(--section-header-padding);
@@ -478,7 +482,7 @@ a:active {
 
 .section-footer {
   padding: var(--section-footer-padding);
-  align-items: var(--section-footer-align);
+  text-align: var(--section-footer-align);
 }
 
 .section-title {
@@ -502,6 +506,6 @@ a:active {
   margin-right: auto;
 }
 
-footer {
+.footer {
   padding: var(--footer-padding);
 }
